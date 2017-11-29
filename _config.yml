@@ -1,5 +1,5 @@
 # Site
-title:              "Hello, this is Edward."
+title:              'Hello, this is Edward.'
 bio:                'I'm a full-time Edward. The kind who sets up a static site at 11:30pm for fun.'
 description:        "This site might live on so that something shows up on my FQDN."
 reading_time:       true
